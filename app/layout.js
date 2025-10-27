@@ -1,8 +1,9 @@
+import './globals.css';
+
 export default function RootLayout({ children }) {
   return (
-    <html>
+    <html lang="fr">
       <body>{children}</body>
     </html>
   );
 }
-

@@ -1,0 +1,8 @@
+export default function Index() {
+  return (
+    <main style={{padding:24}}>
+      <h1>NoxaCore Studio</h1>
+      <p>Store coming soon.</p>
+    </main>
+  );
+}
